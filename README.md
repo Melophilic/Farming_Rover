@@ -1,1 +1,2 @@
 # Farming_Rover
+An AI-powered autonomous rover designed for precision farming. Equipped with sensors and machine learning algorithms, the rover can monitor soil conditions, detect plant health, and optimize farming operations through real-time data collection and analysis. It uses computer vision for crop assessment and integrates AI-driven decision-making to improve agricultural efficiency and sustainability.
